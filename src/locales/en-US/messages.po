@@ -1,0 +1,151 @@
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2023-04-05 19:06+0530\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: @lingui/cli\n"
+"Language: en-US\n"
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Plural-Forms: \n"
+
+#: src/components/FavoriteClubs.jsx:110
+msgid "!Login to Edit!"
+msgstr "!Login to Edit!"
+
+#: src/App.js:45
+msgid "Account"
+msgstr "Account"
+
+#: src/components/FavoriteClubs.jsx:84
+msgid "Action"
+msgstr "Action"
+
+#: src/App.js:59
+#~ msgid "Attatchment `${attatchmentName}.png` saved!"
+#~ msgstr "Attatchment `${attatchmentName}.png` saved!"
+
+#: src/App.js:59
+#~ msgid "Attatchment saved!"
+#~ msgstr "Attatchment saved!"
+
+#: src/App.js:59
+#~ msgid "Attatchment {attatchmentName}.png saved!"
+#~ msgstr "Attatchment {attatchmentName}.png saved!"
+
+#: src/components/FavoriteClubs.jsx:37
+msgid "Blue"
+msgstr "Blue"
+
+#: src/components/FavoriteClubs.jsx:35
+msgid "Blue, Gold, White"
+msgstr "Blue, Gold, White"
+
+#: src/components/FavoriteClubs.jsx:81
+msgid "Club Color"
+msgstr "Club Color"
+
+#: src/App.js:42
+msgid "Competitions"
+msgstr "Competitions"
+
+#: src/App.js:65
+msgid "Copyright © {1} MySoccerStat Inc. All Rights Reserved. <0/><1>Privacy Policy</1>"
+msgstr "Copyright © {1} MySoccerStat Inc. All Rights Reserved. <0/><1>Privacy Policy</1>"
+
+#: src/components/FavoriteClubs.jsx:108
+msgid "Edit"
+msgstr "Edit"
+
+#: src/components/FavoriteClubs.jsx:78
+msgid "Favorite Club"
+msgstr "Favorite Club"
+
+#: src/App.js:61
+#~ msgid "File {downloadedFileName}.zip downloaded!"
+#~ msgstr "File {downloadedFileName}.zip downloaded!"
+
+#: src/components/MatchStats.jsx:16
+msgid "Final Score"
+msgstr "Final Score"
+
+#: src/components/MatchInfo.jsx:18
+msgid "Match Info"
+msgstr "Match Info"
+
+#: src/App.js:35
+msgid "Matches"
+msgstr "Matches"
+
+#: src/components/FavoriteClubs.jsx:34
+msgid "Red, Gold, Blue, White"
+msgstr "Red, Gold, Blue, White"
+
+#: src/components/FavoriteClubs.jsx:36
+msgid "Red, Yellow"
+msgstr "Red, Yellow"
+
+#: src/App.js:39
+msgid "Teams"
+msgstr "Teams"
+
+#: src/components/FavoriteClubs.jsx:11
+msgid "You have a basic membership"
+msgstr "You have a basic membership"
+
+#: src/components/FavoriteClubs.jsx:14
+msgid "You have a pro membership"
+msgstr "You have a pro membership"
+
+#: src/components/FavoriteClubs.jsx:17
+msgid "You have an expert membership"
+msgstr "You have an expert membership"
+
+#: src/components/FavoriteClubs.jsx:67
+msgid "Your favorite clubs and their colors"
+msgstr "Your favorite clubs and their colors"
+
+#: src/components/MatchStats.jsx:33
+msgid "everton.caption"
+msgstr "Logo of Everton"
+
+#: src/components/MatchStats.jsx:23
+msgid "liverpool.caption"
+msgstr "Logo of Liverpool"
+
+#: src/App.js:61
+#~ msgid "message.downloaded_file"
+#~ msgstr "File {downloadedFileName}.zip downloaded!"
+
+#. A greeting message for the user
+#: src/App.js:17
+msgid "message.greeting"
+msgstr "Hello {name}. Greetings from MySoccerStat. Enjoy your match details! :)"
+
+#: src/components/MatchSummary.jsx:14
+msgid "summary.description"
+msgstr "On {0}, Liverpool proved..."
+
+#: src/components/MatchSummary.jsx:11
+msgid "summary.title"
+msgstr "Match Summary"
+
+#: src/components/UserNotification.jsx:32
+msgid "{notificationCount, plural, =0 { Oops! There are <0>#</0> notifications in your inbox, {userName}!} one {You have # new notification} two {You have 2 new notifications. Hehe} =3 {You have 3 new notifications} few {You have a few new notifications} many {You have many new notifications!} other {You have # new notifications 🔔}}"
+msgstr "{notificationCount, plural, =0 { Oops! There are <0>#</0> notifications in your inbox, {userName}!} one {You have # new notification} two {You have 2 new notifications. Hehe} =3 {You have 3 new notifications} few {You have a few new notifications} many {You have many new notifications!} other {You have # new notifications 🔔}}"
+
+#: src/components/MatchInfo.jsx:30
+msgid "⏱️ Time"
+msgstr "⏱️ Time"
+
+#: src/components/MatchInfo.jsx:24
+msgid "📅 Date"
+msgstr "📅 Date"
+
+#: src/components/MatchInfo.jsx:36
+msgid "📍 Venue"
+msgstr "📍 Venue"
